@@ -1,6 +1,6 @@
 ---
 title: Wild Fire Simulator
-tags: "2024"
+tags: 
 article_header:
   type: cover
   image:
