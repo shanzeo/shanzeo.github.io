@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-<img src="assets/IMG_7462.png" alt="Shanze" width="414" height="736">
+<img src="assets/IMG_2248.png" alt="Shanze" width="390" height="487.33">
 
 ## Hello there!
 My name is Shanze Owais, and I am a passionate and dedicated data science major with a deep interest in uncovering insights through data. Currently, I am pursuing my degree at Michigan State University. Throughout my studies, I have developed a strong foundation in statistical analysis and data visualization. My academic journey has equipped me with proficiency in tools and languages such as Python, Java, SQL, NumPy, and Seaborn, allowing me to tackle complex data-driven challenges. 
