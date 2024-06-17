@@ -4,7 +4,7 @@ tags:
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: /CaliforniaWildfires.jpeg
 ---
 
 <!--more-->
