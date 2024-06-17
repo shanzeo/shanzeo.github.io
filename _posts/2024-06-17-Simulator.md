@@ -1,6 +1,6 @@
 ---
 title: Wild Fire Simulator
-tags: 
+tags: Wild Fire Simulator
 article_header:
   type: cover
   image:
