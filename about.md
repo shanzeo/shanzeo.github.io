@@ -26,8 +26,18 @@ titles:
 key: page-about
 ---
 
-<div style="text-align:center;">
-    <img src="assets/IMG_2248.jpg" alt="Shanze" width="390" height="487.33">
+<style>
+.img-rounded {
+    width: 300px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 10px; /* Rounded corners */
+    display: block; /* Ensure proper spacing and centering */
+    margin: 0 auto; /* Center align horizontally */
+}
+</style>
+
+<div style="text-align: center;">
+    <img src="assets/IMG_2248.jpg" alt="Shanze" class="img-rounded">
 </div>
 
 ## Hello there!
