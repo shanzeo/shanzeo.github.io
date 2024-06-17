@@ -28,11 +28,16 @@ key: page-about
 
 <style>
 .img-rounded {
-    width: 300px; /* Adjust the width as needed */
+    width: 200px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
     border-radius: 10px; /* Rounded corners */
-    display: block; /* Ensure proper spacing and centering */
-    margin: 0 auto; /* Center align horizontally */
+    margin: 0 10px; /* Margin around each image */
+}
+.images-container {
+    text-align: center;
+}
+.images-container .img-rounded + .img-rounded {
+    margin-left: 20px; /* Space between images */
 }
 </style>
 
@@ -55,4 +60,3 @@ Outside of academia and data science, I enjoy exploring photography, hiking, and
     <img src="assets/jalebi.JPG" alt="Jalebi" class="img-rounded">
     <img src="assets/sushi.jpg" alt="Sushi" class="img-rounded">
 </div>
-
