@@ -49,9 +49,10 @@ Beyond my technical skills, I am an effective communicator and a collaborative t
 
 Outside of academia and data science, I enjoy exploring photography, hiking, and experimenting with new recipes in the kitchen. Below, you can view some of my photography showcasing the dishes I've prepared. These personal interests complement my analytical mindset and contribute to my holistic approach to life and problem-solving.
 
-![pudding](assets/pudding.JPG)
-![kabab](assets/kabab.JPG)
-![jalebi](assets/jalebi.JPG)
-![sushi](assets/sushi.JPG)
-
+<div class="images-container">
+    <img src="assets/pudding.JPG" alt="Pudding" class="img-rounded">
+    <img src="assets/kabab.JPG" alt="Kabab" class="img-rounded">
+    <img src="assets/jalebi.JPG" alt="Jalebi" class="img-rounded">
+    <img src="assets/sushi.jpg" alt="Sushi" class="img-rounded">
+</div>
 
