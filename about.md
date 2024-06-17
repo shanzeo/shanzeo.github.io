@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![Shanze](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
 ## Hello there!
 My name is Shanze Owais, and I am a passionate and dedicated data science major with a deep interest in uncovering insights through data. Currently, I am pursuing my degree at Michigan State University. Throughout my studies, I have developed a strong foundation in statistical analysis and data visualization. My academic journey has equipped me with proficiency in tools and languages such as Python, Java, SQL, NumPy, and Seaborn, allowing me to tackle complex data-driven challenges. 
