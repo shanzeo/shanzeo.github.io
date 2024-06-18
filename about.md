@@ -48,7 +48,7 @@ key: page-about
 </style>
 
 <div style="text-align: center;">
-    <img src="assets/IMG_2248.jpg" alt="Shanze" class="img-rounded">
+    <img src="assets/IMG_2254.jpg" alt="Shanze" class="img-rounded">
 </div>
 
 ## Hello there!
