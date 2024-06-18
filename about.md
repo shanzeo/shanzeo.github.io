@@ -39,6 +39,12 @@ key: page-about
 .images-container .img-rounded + .img-rounded {
     margin-left: 20px; 
 }
+.img-small {
+    width: 200px; 
+    height: 150px; 
+    border-radius: 10px; 
+    margin: 0 10px; 
+}
 </style>
 
 <div style="text-align: center;">
@@ -55,7 +61,8 @@ Beyond my technical skills, I am an effective communicator and a collaborative t
 Outside of academia and data science, I enjoy exploring photography, hiking, and experimenting with new recipes in the kitchen. Below, you can view some of my photography showcasing the dishes I've prepared. These personal interests complement my analytical mindset and contribute to my holistic approach to life and problem-solving.
 
 <div class="images-container">
-    <img src="assets/pudding.JPG" alt="Pudding" class="img-rounded">
-    <img src="assets/kabab.JPG" alt="Kabab" class="img-rounded">
-    <img src="assets/jalebi.JPG" alt="Jalebi" class="img-rounded">
+    <img src="assets/pudding.JPG" alt="Pudding" class="img-small">
+    <img src="assets/kabab.JPG" alt="Kabab" class="img-small">
+    <img src="assets/jalebi.JPG" alt="Jalebi" class="img-small">
 </div>
+
